@@ -1,0 +1,6 @@
+{
+  "name": "OralGuard - AI-Assisted Oral Cancer Screening",
+  "description": "An AI-assisted oral cancer risk screening, self-examination, and education tool for early detection and professional clinical guidance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
